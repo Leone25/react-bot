@@ -1,0 +1,14 @@
+{
+  "name": "react-bot",
+  "version": "1.0.0",
+  "description": "A bot that adds/removes roles when you react to a message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enrico",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js"
+  }
+}
