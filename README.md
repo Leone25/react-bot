@@ -11,6 +11,7 @@ A super simple discord bot thta gives and removes your roles when you react to a
   2. Run this command in a command prompt to install all the libraries required to run the code: `npm install` .
   3. Create your bot on the [developer portal on the discord website](https://discordapp.com/developers).
   4. Copy the example config to `config.json` and configure as detailed below.
+  
   |Setting|Description|
   |--|--|
   |`token`|Discord API bot token (found on the developer portal)|
