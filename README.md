@@ -1,10 +1,10 @@
 # React-bot
-A super simple discord bot thta gives and removes your roles when you react to a message
+A super simple Discord bot that gives and removes your roles when you react to a message.
 
 
 ## Features
-- Add roles whenever someone reacts to a certain message with a choosen emoji
-- Removes roles whenever someone removes a reaction from a certain message with a choosen emoji
+* Add roles whenever someone reacts to a certain message with a choosen emoji
+* Removes roles whenever someone removes a reaction from a certain message with a choosen emoji
 
 ## How to set up
   1. First make sure that you have the latest version of [NodeJS](https://nodejs.org/en/) installed.
@@ -24,6 +24,6 @@ A super simple discord bot thta gives and removes your roles when you react to a
   7. Start the bot by running `node index.js `.
   8. Congratulation, your bot is up and running!
   
-## If any problem comes up or something please open an issue on github (I haven't tested it much)
+## If any problem comes up or something, please open an [issue](https://github.com/Leone25/react-bot/issues/new) on github (I haven't tested it much)
 
  Have a great life!
